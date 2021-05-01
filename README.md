@@ -2,4 +2,4 @@
 Beginner JavaScript project
 
 ### Random Quotes preview
-![](.screenshot.png)
+![](./screenshot.png)
